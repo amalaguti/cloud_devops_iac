@@ -1,0 +1,9 @@
+aws/
+azure/
+github_actions_starter_workflows/
+kubernetes/
+portal_backend/
+portal_frontend/
+NOTES/
+*.code-workspace
+.DS_Store
